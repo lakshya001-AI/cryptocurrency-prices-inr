@@ -12,7 +12,7 @@ getCryptoPrice("ETH").then(res => {
     console.log(res);
 });
 
-## Modify Packakage.json File:
+## Modify Package.json File:
 
 For this code to work, please ensure that your package.json file includes the "type" field set to "module", like so:
 
